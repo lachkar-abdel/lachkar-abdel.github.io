@@ -1,1 +1,1 @@
-/* Placeholder file kept for compatibility with the original GitHub Pages structure. */
+/* Intentionally lightweight for GitHub Pages deployment */
